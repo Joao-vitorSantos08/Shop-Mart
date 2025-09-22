@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	  🚀✅ { ShopMart } - Concluído ✅🚀
+	  🚀✅ ShopMart - Concluído ✅🚀
 </h1>
 
 <p align="center">
@@ -30,7 +30,7 @@ Projeto desenvolvido junto com o professor durante o curso de Bootstrap. Criamos
 
 ## 🎨 Layout
 
-![Mobile3]()
+![Mobile3](Thumbnail-ShopMart.png)
 
 ## ▶️ Como Executar o Projeto
 
